@@ -14,7 +14,7 @@ Description: Mail list database populator
 
 
 
-Version: 1.0.1
+Version: 1.0.2
 
 
 
@@ -614,7 +614,7 @@ function egoi_mail_list_builder_woocommerce_comment_process($commentdata) {
 
 
 
-add_filter( 'preprocess_comment', 'egoi_mail_list_builder_comment_process' );
+add_filter( 'preprocess_comment', 'egoi_mail_list_builder_woocommerce_comment_process' );
 
 
 
