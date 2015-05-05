@@ -14,7 +14,7 @@ Description: Mail list database populator
 
 
 
-Version: 1.0.3
+Version: 1.0.4
 
 
 
@@ -122,7 +122,7 @@ License: GPLv2 or later
 
 
 
-define('EGOI_MAIL_LIST_BUILDER_WOOCOMMERCE_VERSION', '1.0.3');
+define('EGOI_MAIL_LIST_BUILDER_WOOCOMMERCE_VERSION', '1.0.4');
 
 
 
